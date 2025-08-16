@@ -1,6 +1,6 @@
 # Politique d’Utilisation du Bot Messenger « Résultat Bac »
 
-**Dernière mise à jour : 13 août 2025**
+**Dernière mise à jour : 16 août 2025**
 
 Bienvenue sur le service « Résultat Bac ».  
 En utilisant ce bot Messenger, vous acceptez les conditions suivantes.
@@ -24,7 +24,9 @@ Ces données sont uniquement utilisées pour vous fournir le résultat demandé 
 
 ## 3. Source des données
 Les résultats affichés proviennent de la plateforme officielle du Baccalauréat  
-**https://bacc.univ-fianarantsoa.mg**  
+**https://bacc.univ-fianarantsoa.mg** 
+**https://univants.mg**
+**https://bacc.univ-toamasina.mg**
 Le bot n’altère pas les informations et se contente de les présenter.
 
 ---
